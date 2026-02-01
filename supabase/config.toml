@@ -1,0 +1,43 @@
+project_id = "mohpiuxljbkhskvisfvi"
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.check-subscription]
+verify_jwt = false
+
+[functions.customer-portal]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.weekly-digest]
+verify_jwt = false
+
+[functions.suggest-meal]
+verify_jwt = false
+
+[functions.analyze-food]
+verify_jwt = false
+
+[functions.voice-to-text]
+verify_jwt = false
+
+[functions.lookup-barcode]
+verify_jwt = false
+
+[functions.generate-recipe]
+verify_jwt = false
+
+[functions.generate-meal-plan]
+verify_jwt = false
+
+[functions.send-weekly-digest]
+verify_jwt = false
+
+[functions.predict-energy]
+verify_jwt = false
+
+[functions.analyze-emotion]
+verify_jwt = false
